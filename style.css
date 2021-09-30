@@ -1,0 +1,162 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+  }
+
+  h1 {
+    font-size: 4.0rem;
+    margin: 50px auto 0 auto;
+    font-family: Merriweather;
+    color: #66BFBF;
+  }
+
+  p {
+    line-height: 2;
+  }
+
+  h2 {
+      font-family: Montserrat;
+      font-size: 2.0rem;
+      color: #66BFBF;
+      font-weight: normal;
+  }
+
+  h3 {
+      font-family: 'Montserrat', sans-serif;
+      color: #11999E;
+      font-size: 1.75rem;
+  }
+
+  a {
+    color: #11999E;
+  }
+
+
+  .top-container {
+    position: relative;
+
+  }
+
+  .middle-container {
+    position: relative;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  .bottom-container {
+    background-color: #C9CCD5;
+    position: relative;
+    padding-top: 50px;
+    padding-bottom: 100px;
+  
+  }
+  .copyright {
+    font-family: Montserrat;
+    color:black;
+    position: absolute;
+    left: 425px;
+    margin-bottom: 20px;
+  }
+
+  .top-cloud {
+    position: absolute;
+    opacity: 0.3;
+    right: 150px;
+    top: 115px;
+  }
+
+  .bottom-cloud {
+    position: absolute;
+    opacity: 0.3;
+    left: 10px;
+    bottom: -20px;
+  }
+.mountain{
+    width: 70%
+}
+
+  .skill-row {
+    width: 50%;
+    margin: 100px auto;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    text-align: left;
+  }
+
+  .contact-me {
+    margin: 30px auto;
+    line-height: 2;
+  }
+
+  .img1 {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+  }
+
+  .img2 {
+    float: right;
+    margin-left: 30px;
+  }
+
+
+  .footer-link {
+    color: black;
+    margin: 50px 30px;
+    font-family: 'Merriweather', sans-serif;
+  }
+
+  hr {
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 5px;
+    width: 10%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+
+  .cont {
+    width: 40%;
+    margin: auto;
+  }
+  .intro {
+    width: 70%;
+    font-size: large;
+    margin: auto;
+  }
+
+  a:hover {
+    color: #EAF6F6;
+  }
+
+  .btn {
+    background:    #6fa8dc;
+    border-radius: 12px;
+    padding:       21px 42px;
+    color:         #ffffff;
+    display:       inline-block;
+    font:          normal bold 21px/1 "Open Sans", sans-serif;
+    text-align:    center;
+    text-decoration: none;
+  }
+
+.who{
+  position: relative;
+  bottom: 20px;
+  left: 50px;
+}
+
+.ima{
+  position: absolute;
+  top: 30px;
+  right: 455px;
+}
+.gov{
+  position: absolute;
+  top: 35px;
+  right: 355px;
+}
+.click{
+  font-family: Montserrat;
+}
